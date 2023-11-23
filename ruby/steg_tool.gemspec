@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.version     = "0.0.1"
   s.summary     = "A stegano tool for CTFs"
   s.description = "This tool helps you to automate flag searching in files"
-  s.authors     = ["Ibrahim Ly"]
+  s.authors     = ["Ibrahim LY"]
   s.email       = "ibrahimly.il.il@gmail.com"
   s.files       = `git ls-files`.split("\n")
   s.homepage    =
