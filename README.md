@@ -36,3 +36,9 @@ N.B: Even if you don't provide the arguments it will prompt you them
   python steg_tool.py -f FILE -t TEXT_TO_SEARCH -p END_PATTERN
   ```
 N.B: As the ruby version, even if you don't provide the arguments it will prompt you them
+
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
